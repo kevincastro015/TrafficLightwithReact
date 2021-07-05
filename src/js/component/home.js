@@ -1,4 +1,5 @@
 import React from "react";
+import "relative/path/to/stylesheet.scss";
 
 //include images into your bundle
 import rigoImage from "../../img/rigo-baby.jpg";
