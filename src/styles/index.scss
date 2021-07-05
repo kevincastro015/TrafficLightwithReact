@@ -1,10 +1,17 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
+.traffic-top{
+    width: 20px;
+    height: 50px;
+    background-color: black;
+    margin: auto;
+}
+
 .traffic-light{
-    background: black;
     padding: 10px;
     display: inline-block;
     margin: auto;
+    background: black;
 }
 .light {
     width: 100px;
